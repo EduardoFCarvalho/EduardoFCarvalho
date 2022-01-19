@@ -2,7 +2,7 @@
 
 - Amo tecnologia e aprender coisas novas, isso faz parte de mim
 - Sou desenvolvedor Front End júnior e estou buscando oportunidade para ingressar na área
-- Atualmente estou estudando React
+- Atualmente estou estudando Vue
 
 ## Sobre mim!
 
