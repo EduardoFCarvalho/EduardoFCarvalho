@@ -1,4 +1,4 @@
-## Olá! me chamo Eduardo,
+## Olá, me chamo Eduardo!
 
 <p>Sou desenvolvedor fullstack com expertise nas principais linguagens e tecnologias que impulsionam a web. Minhas principais ferramentas de trabalho incluem:</p>
 
