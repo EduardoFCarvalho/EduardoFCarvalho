@@ -1,13 +1,24 @@
-## Olá, sou o Edu!
+## Olá! me chamo Eduardo,
 
-- Amo tecnologia e aprender coisas novas, isso faz parte de mim
-- Sou desenvolvedor Front End júnior e estou buscando oportunidade para ingressar na área
-- Atualmente estou estudando Vue
+<p>Sou desenvolvedor fullstack com expertise nas principais linguagens e tecnologias que impulsionam a web. Minhas principais ferramentas de trabalho incluem:</p>
+
+- JavaScript
+- PHP
+- MySQL
 
 ## Sobre mim!
 
-<p>A pandemia me possibilitou migrar para TI, hoje estudo Front End, mas estou aberto a oportunidades de conhecer outras linguagens, para mim o importante é não parar de crescer.</p>
-<p>Minhas experiências anteriores me proporcionaram vivência com grandes desafios, ter que solucionar problemas e ao mesmo tempo atender as demandas dos clientes, isso me deixa bem preparado para os desafios que vou encontrar nessa minha nova jornada.</p>
+<p>Minha jornada na tecnologia abrange tanto as nuances do front-end quanto do back-end. Desde pequenas customizações até a implementação de novas estratégias em projetos complexos, tenho experiência em lidar com todos os aspectos do desenvolvimento web. </p>
+
+<p>Uma parte significativa do meu trabalho envolve o uso de PHP para construir estruturas dinâmicas que tornam as alterações e a manutenção futura mais eficientes. Além disso, sou habilidoso na criação de bancos de dados e painéis administrativos.</p>
+
+<p>Minha formação inicial foi em Engenharia Mecânica, mas, ao longo do tempo, minha paixão pela resolução de problemas e lógica me levou ao mundo da tecnologia. Em 2020, aproveitei a oportunidade que a pandemia trouxe e fiz a transição para a área de TI, onde hoje atuo como desenvolvedor fullstack júnior.</p>
+
+<p>Minhas principais competências técnicas incluem JavaScript, PHP, MySQL, HTML, CSS, Bootstrap, GIT, Webpack, NPM e até mesmo habilidades em design com o Photoshop.</p>
+
+<p>Além disso, minhas habilidades interpessoais são essenciais para o meu sucesso profissional. Sou conhecido por ser muito educado, habilidades de comunicação, trabalho em equipe eficaz, capacidade de liderança, resolução de problemas, proatividade e criatividade.</p>
+
+<p>Estou sempre em busca de novos desafios e oportunidades de aprendizado para continuar aprimorando minhas habilidades.</p>
 
 ##
 
